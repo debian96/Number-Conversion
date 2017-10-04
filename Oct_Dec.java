@@ -13,6 +13,7 @@ public class Oct_Dec {
 			no = no/10;
 			base = base * 8;
 		}
+		
 		System.out.println(dec);
 	}
 }
