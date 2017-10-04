@@ -13,6 +13,7 @@ public class Dec_Oct {
 			no = no/8;
 			i = i*10;
 		}
+		
 		System.out.println(oct);
 	}
 }
