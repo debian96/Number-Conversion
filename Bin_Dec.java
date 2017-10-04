@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Bin_Dec {
+public class Bin_Dec {
 	static Scanner sc = new Scanner(System.in);
 	public static void main(String[] args) {
 		
