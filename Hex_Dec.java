@@ -19,6 +19,7 @@ public class Hex_Dec {
 				base = base * 16;
 			}
 		}
+		
 		System.out.println(dec);
 	}
 }
