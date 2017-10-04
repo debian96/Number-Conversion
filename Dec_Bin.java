@@ -14,5 +14,5 @@ public class Dec_Bin {
 			i = i*10;
 		}
 		System.out.println(bin);
-	}
+     }
 }
