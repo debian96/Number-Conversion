@@ -18,8 +18,7 @@ public class Dec_Hex {
 			}else {
 				hex[i] =(char) (rem + 55);
 				i++;
-			}
-			
+			}	
 			no = no/16;
 		}
 		for (int j = hex.length-1; j >=0; j--) {
